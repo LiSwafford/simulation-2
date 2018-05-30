@@ -1,0 +1,35 @@
+.dash {
+  width: 55vw;
+  background-color: #e5f4ec;
+}
+.dash-header {
+  display: flex;
+  justify-content: space-between;
+
+  /* padding: 10px;
+  margin: 10px;
+  width: 100%;
+  display: inline-block;
+  border-bottom: 2px solid black; */
+}
+.dash-text {
+  font-size: 40px;
+  color: #3b5249;
+  margin: 20px;
+}
+.dash-btn {
+  margin: 20px;
+  background-color: #8aea92;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.dash_prop_container {
+  border-top: 1px solid #000;
+  margin: 0 20px 10px;
+}
+.dash_prop_heading {
+  margin: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}

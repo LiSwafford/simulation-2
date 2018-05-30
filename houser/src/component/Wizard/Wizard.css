@@ -1,0 +1,76 @@
+.wiz {
+  width: 50vw;
+  background-color: #e5f4ec;
+  position: relative;
+  min-height: 100vh;
+}
+
+.wiz_subheader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wiz_heading {
+  font-size: 30px;
+  margin: 20px;
+  font-weight: 700;
+}
+
+.wiz_subheader_button {
+  margin: 20px;
+  border: none;
+  padding: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  background-color: #fec2c2;
+}
+
+.wizbody {
+  margin: 20px auto;
+  width: 70%;
+}
+
+.wizInput {
+  margin: 10px;
+  float: left;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.wizInput > p {
+  margin-left: 12px;
+}
+
+.wizInput > * {
+  margin: 2px;
+}
+.wizInput > input {
+  border: 1px solid #519872;
+  border-radius: 2px;
+  height: 25px;
+}
+.longInput > input {
+  width: 35vw;
+}
+.wizBtn {
+  margin: 20px;
+  background-color: #3b5249;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+#prBtn {
+  left: 30px;
+}
+#preBtn {
+  left: 30px;
+}
+#comBtn {
+  background-color: #8aea92;
+}
+.intro {
+  text-align: center;
+}
